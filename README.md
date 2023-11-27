@@ -26,19 +26,19 @@ If you'd like to contribute to this project, follow these steps:
 1. Fork the repository: [https://github.com/enshikuku/-responsive-footer](https://github.com/enshikuku/-responsive-footer)
 2. Clone your forked repository to your local machine.
 
-```bash
+   ```bash
    git clone https://github.com/your-username/-responsive-footer.git
    ```
 
 3. Create a new branch to work on your feature or bug fix.
 
-```bash
+   ```bash
    git checkout -b feature-name
    ```
 
 4. Make your changes and commit them.
 
-```bash
+   ```bash
    git add .
    git commit -m "Add your feature or fix"
    ```
